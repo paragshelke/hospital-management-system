@@ -33,6 +33,12 @@ Relationships:
 - Prescriptions, diagnostic tests, and procedures are linked to encounters using foreign keys
 - Foreign key constraints ensure that related data is always consistent
 
+ER-Diagram
+-----------------------
+<img width="1564" height="1122" alt="toolsnak-er-diagram" src="https://github.com/user-attachments/assets/c264637b-29f9-4f00-b6e9-0b158295e518" />
+
+
+
 How to Run the Project
 ----------------------
 1. Install MySQL
